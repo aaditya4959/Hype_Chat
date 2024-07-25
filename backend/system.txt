@@ -1,0 +1,6 @@
+Our Base Application will have the following features :-
+        (As this application is based on random match making, so we have to imply a random picking algorithhm).
+
+
+1.... The new user will be entered into a waiting room.
+2.... Whenever the user has another user in the waiting room, the application makes a match.
